@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://soul.md/"><img alt="Read soul.md" src="https://img.shields.io/badge/read-soul.md-111111?style=for-the-badge" /></a>
+  <a href="https://github.com/madhvantyagi/SOUL.md/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/madhvantyagi/SOUL.md?style=for-the-badge" /></a>
   <a href="https://www.stanza.dev/concepts/openclaw-soul-persona"><img alt="OpenClaw SOUL persona" src="https://img.shields.io/badge/OpenClaw-SOUL%20persona-2b6cb0?style=for-the-badge" /></a>
   <a href="https://github.com/NousResearch/hermes-agent/blob/main/website/docs/user-guide/features/personality.md"><img alt="Hermes personality layer" src="https://img.shields.io/badge/Hermes-personality%20layer-5b21b6?style=for-the-badge" /></a>
   <a href="https://opencode.ai/docs/rules/"><img alt="OpenCode instructions" src="https://img.shields.io/badge/OpenCode-instructions-0f766e?style=for-the-badge" /></a>
